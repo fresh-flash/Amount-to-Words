@@ -67,41 +67,25 @@ If you cannot or do not want to use Named Functions, you can paste the formula d
 
 ## 📚 Supported Lists
 
-### Languages (9)
-
-| Code | Language | Native Name |
-| :--- | :--- | :--- |
-| **EN** | English (US/UK) | English |
-| **DE** | German | Deutsch |
-| **ES** | Spanish | Español |
-| **IT** | Italian | Italiano |
-| **FR** | French | Français |
-| **PL** | Polish | Polski |
-| **NL** | Dutch | Nederlands |
-| **UA** | Ukrainian | Українська |
-| **RU** | Russian | Русский |
-
-### Currencies (17)
-
-| Code | Currency |
-| :--- | :--- |
-| **USD** | US Dollar |
-| **EUR** | Euro |
-| **GBP** | Pound Sterling |
-| **JPY** | Japanese Yen |
-| **CHF** | Swiss Franc |
-| **CNY** | Chinese Yuan |
-| **CAD** | Canadian Dollar |
-| **AUD** | Australian Dollar |
-| **NZD** | New Zealand Dollar |
-| **SGD** | Singapore Dollar |
-| **HKD** | Hong Kong Dollar |
-| **UAH** | Ukrainian Hryvnia |
-| **PLN** | Polish Złoty |
-| **ZAR** | South African Rand |
-| **SEK** | Swedish Krona |
-| **NOK** | Norwegian Krone |
-| **MXN** | Mexican Peso |
+| 🌍 Language (Code) | Native Name | &nbsp;&nbsp;&nbsp; | 💰 Currency (Code) | Currency Name |
+| :--- | :--- | :--- | :--- | :--- |
+| **EN** | English | | **USD** | US Dollar |
+| **FR** | French | | **EUR** | Euro |
+| **NL** | Dutch | | **GBP** | Pound Sterling |
+| **DE** | German | | **JPY** | Japanese Yen |
+| **ES** | Spanish | | **CHF** | Swiss Franc |
+| **IT** | Italian | | **CNY** | Chinese Yuan |
+| **UA** | Ukrainian | | **CAD** | Canadian Dollar |
+| **PL** | Polish | | **AUD** | Australian Dollar |
+| **RU** | Russian | | **PLN** | Polish Złoty |
+| | | | **UAH** | Ukrainian Hryvnia |
+| | | | **NZD** | New Zealand Dollar |
+| | | | **SGD** | Singapore Dollar |
+| | | | **HKD** | Hong Kong Dollar |
+| | | | **ZAR** | South African Rand |
+| | | | **SEK** | Swedish Krona |
+| | | | **NOK** | Norwegian Krone |
+| | | | **MXN** | Mexican Peso |
 
 ## ⚠️ Technical Notes & Limits
 
