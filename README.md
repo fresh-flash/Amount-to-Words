@@ -7,6 +7,7 @@ It supports **5 languages** and **16 currencies**, handles grammar (gender, plur
 
 ![Google Sheets Badge](https://img.shields.io/badge/Google%20Sheets-Native%20Formula-green)
 ![License](https://img.shields.io/badge/license-MIT-blue)
+![Preview Animation](preview.gif)
 
 ## ✨ Features
 
