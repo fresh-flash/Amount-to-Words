@@ -1,7 +1,7 @@
 # 🚀 Google Sheets Amount to Words (No Script)
 
 A powerful, native Google Sheets formula to convert numerical amounts into words (text). 
-It supports **5 languages** and **16 currencies**, handles grammar (gender, plurals), and processes decimal parts (cents/kopecks/pence).
+It supports a few **languages** and **currencies**, handles grammar (gender, plurals), and processes decimal parts (cents/kopecks/pence).
 
 > **Key Feature:** It uses `LET` and `LAMBDA` functions. **No Apps Script required.** It works instantly and doesn't trigger security warnings.
 
